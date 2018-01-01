@@ -1,4 +1,4 @@
-#Build a Nightlife Coordination App
+# Nightlife Coordination App
 
 ##User Stories
 1. As an unauthenticated user, I can view all bars in my area.
