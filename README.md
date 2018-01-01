@@ -7,4 +7,4 @@
 4. As an unauthenticated user, when I login I should not have to search again.
 
 ##### Note:
-⋅⋅* Used Yelp Fusion API for getting all bars in the area.
+* Used Yelp Fusion API for getting all bars in the area.
