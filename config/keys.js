@@ -7,7 +7,7 @@ module.exports = {
     twitter: {
         consumerKey: process.env.TWITTER_KEY,
         consumerSecret: process.env.TWITTER_SECRET,
-        callback:  process.env.APP_URL + 'auth/twitter/callback'
+        callback:  process.env.APP_URL + '/auth/twitter/callback'
     },
     mongodb: {
         dbURI: process.env.MONGO_URI
